@@ -203,6 +203,10 @@ main {
 .pets__card__featured {
   border-color: gold;
 }
+.pets__card__special {
+  background-color: rgb(13, 172, 13);
+  color: #EFEFEF;
+}
 
 .main-footer {
   background-color: #7AACC3;
