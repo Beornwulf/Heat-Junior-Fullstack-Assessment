@@ -54,6 +54,8 @@ $brand-colour: #7AACC3;
 
     &:hover {
       color: #898989;
+      opacity: 0.65;
+      transition: 300ms;
     }
   }
 }
