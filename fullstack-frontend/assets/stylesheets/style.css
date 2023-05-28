@@ -200,6 +200,9 @@ main {
   margin-top: 30px;
   cursor: pointer;
 }
+.pets__card__featured {
+  border-color: gold;
+}
 
 .main-footer {
   background-color: #7AACC3;
